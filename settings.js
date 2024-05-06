@@ -25,11 +25,11 @@ global.isPairing = true; //Mau pake pairing? true = idup, false = mati
 global.sig = "https://whatsapp.com/channel/0029VaEbPCF7IUYaKhwkFl0j";
 global.swa = "wa.me/6281224863098";
 global.version = "1.0";
-global.access_denied = "https://telegra.ph/file/854a00723c61cb1f0e8f2.jpg";
+global.access_denied = "https://telegra.ph/file/dd8bc4099f3015a26de44.jpg";
 
 global.wm = "LanBot WhatsApp";
 global.done = "```Success!```";
-global.icon = "https://telegra.ph/file/854a00723c61cb1f0e8f2.jpg";
+global.icon = "https://telegra.ph/file/8f94b823796c01d75f556.jpg";
 global.fla = "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=";
 global.wait = "```Tunggu Sebentar⌛```";
 global.eror = "`! Error Command Failed`";
