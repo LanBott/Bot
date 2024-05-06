@@ -1,10 +1,10 @@
 
 global.owner = [
-  ["6282389924037"],
+  ["6281224863098"],
 ]; 
 
-global.numberbot = "Nalaa - Bot";
-global.nameowner = "Vynaa Valerie";
+global.numberbot = "Lan";
+global.nameowner = "Dellas";
 global.nomorown = "6281224863098";
 
 /*Ini Isi dengan Payment kalian masing masing*/
@@ -20,9 +20,9 @@ global.ocrapi = "314b4b8b2d88957";
 //Other Settings
 global.namebot = "©LanV2";
 global.title = "LanBot By Whatsapp"
-global.sgc = "https://whatsapp.com/channel/0029VaY8f07GehEMWI1bhd1U";
+global.sgc = "https://chat.whatsapp.com/DFK7LBm7aUt41Ug2yUxNr5";
 global.isPairing = true; //Mau pake pairing? true = idup, false = mati
-global.sig = "https://whatsapp.com/channel/0029VaY8f07GehEMWI1bhd1U";
+global.sig = "https://whatsapp.com/channel/0029VaEbPCF7IUYaKhwkFl0j";
 global.swa = "wa.me/6281224863098";
 global.version = "1.0";
 global.access_denied = "https://telegra.ph/file/854a00723c61cb1f0e8f2.jpg";
@@ -33,14 +33,14 @@ global.icon = "https://telegra.ph/file/854a00723c61cb1f0e8f2.jpg";
 global.fla = "https://flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=water-logo&script=water-logo&fontsize=90&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextColor=%23000&shadowGlowColor=%23000&backgroundColor=%23000&text=";
 global.wait = "```Tunggu Sebentar⌛```";
 global.eror = "`! Error Command Failed`";
-global.packname = "© BotWhatsapp";
+global.packname = "BotWhatsapp";
 global.author = "Made by Lan";
 
 //Ini Isi pakai video & poto lu
-global.gif = "https://telegra.ph/file/b9868a55ccdd577f70ff0.jpg"; 
-global.thumb = "https://telegra.ph/file/b9868a55ccdd577f70ff0.jpg";
+global.gif = "https://iili.io/Jugyqyx.jpg"; 
+global.thumb = "https://iili.io/Jugyqyx.jpg";
 global.multiplier = 45;
-global.sourceurl = 'https://www.vynaachan-api.shop'
+global.sourceurl = 'https://itsmedell.vercel.app/'
 
 global.rpg = {
   emoticon(string) {
@@ -90,8 +90,8 @@ global.danied = {
     groupMentions: [],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363198449115557@newsletter',
-      newsletterName: "💐 FOLLOW ME ON CHANNEL",
+      newsletterJid: '120363200509034116@newsletter',
+      newsletterName: "LanBot",
       serverMessageId: -1
     },
     forwardingScore: 256,
@@ -113,13 +113,13 @@ global.adReply = {
     groupMentions: [],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363198449115557@newsletter',
-      newsletterName: "🥀 FOLLOW ME ON CHANNEL",
+      newsletterJid: '120363200509034116@newsletter',
+      newsletterName: "LanBot",
       serverMessageId: -1
     },
     forwardingScore: 256,
     externalAdReply: {
-      title: `Aku Nala🥀`,
+      title: `LanBot`,
       body: wm,
       thumbnailUrl: thumb,
       sourceUrl: "",
@@ -137,16 +137,16 @@ global.fakeig = {
     groupMentions: [],
     isForwarded: true,
     forwardedNewsletterMessageInfo: {
-      newsletterJid: '120363198449115557@newsletter',
-      newsletterName: "💐 FOLLOW ME ON CHANNEL",
+      newsletterJid: '120363200509034116@newsletter',
+      newsletterName: "LanBot",
       serverMessageId: -1         
     },
     forwardingScore: 256,
     externalAdReply: {
-      title: `Aku Nala💐`,
+      title: `LanBot`,
       body: wm,
       thumbnailUrl: icon,
-      sourceUrl: "",
+      sourceUrl: "https://www.instagram.com/itsmedells_188",
       mediaType: 1,
       renderLargerThumbnail: false
     }
